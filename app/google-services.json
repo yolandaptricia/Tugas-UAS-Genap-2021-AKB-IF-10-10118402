@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421556392908",
+    "project_id": "uas-akb-10118402",
+    "storage_bucket": "uas-akb-10118402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421556392908:android:96fb131c904e8f34c78369",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_10118402"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421556392908-u3jo2l7tq1cpijg6ujf99dtpra1svnp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnu6mgLswj_WBSumOTnSi3Xy5ToeR-cHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421556392908-u3jo2l7tq1cpijg6ujf99dtpra1svnp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
